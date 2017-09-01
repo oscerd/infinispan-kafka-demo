@@ -32,12 +32,12 @@
     </scm>
 
     <properties>
-        <infinispan.kafka.version>0.0.1-SNAPSHOT</infinispan.kafka.version>
+        <infinispan.kafka.version>0.1-SNAPSHOT</infinispan.kafka.version>
     </properties>
 
     <dependencies>
         <dependency>
-            <groupId>org.infinispan</groupId>
+            <groupId>org.infinispan.kafka</groupId>
             <artifactId>infinispan-kafka</artifactId>
             <version>${infinispan.kafka.version}</version>
         </dependency>
