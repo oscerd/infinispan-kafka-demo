@@ -32,7 +32,7 @@
     </scm>
 
     <properties>
-        <infinispan.kafka.version>0.1-SNAPSHOT</infinispan.kafka.version>
+        <infinispan.kafka.version>0.1</infinispan.kafka.version>
     </properties>
 
     <dependencies>
