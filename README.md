@@ -6,8 +6,8 @@ This is an example for Infinispan-kafka connector
 
 ## What is needed
 
-- An Infinispan Server 9.1.0.Final running
-- A Kafka Cluster 0.11.0.0 running 
+- An Infinispan Server 9.1.5.Final running
+- A Kafka Cluster 1.0.0 running 
 - The project https://github.com/oscerd/infinispan-kafka-producer
 - The project https://github.com/oscerd/camel-infinispan-kafka-demo
 
